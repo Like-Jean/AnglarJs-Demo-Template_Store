@@ -1,0 +1,107 @@
+[
+	{
+    	"id" : 1,
+    	"name" : "template 1",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 19.99,
+    	"img" : [
+    		{
+    			"name" : "1.jpg"
+    		},
+    		{
+    			"name" : "10.jpg"
+    		},
+    		{
+    			"name" : "11.jpg"
+    		}
+    	]
+	},
+	{
+    	"id" : 2,
+    	"name": "template 2",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 9.99,
+    	"img" : [
+    		{
+    			"name" : "2.jpg"
+    		}
+    	]
+	},
+	{
+    	"id" : 3,
+    	"name": "template 3",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 13.99,
+    	"img" : [
+    		{
+    			"name" : "3.jpg"
+    		}
+    	]
+	},
+	{
+    	"id" : 4,
+    	"name": "template 4",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 19.99,
+    	"img" : [
+    		{
+    			"name" : "4.jpg"
+    		}
+    	]
+	},
+	{
+    	"id" : 5,
+    	"name": "template 5",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 19.99,
+    	"img" : [
+    		{
+    			"name" : "5.jpg"
+    		}
+    	]
+	},
+	{
+    	"id" : 6,
+    	"name": "template 6",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 19.99,
+    	"img" : [
+    		{
+    			"name" : "6.jpg"
+    		}
+    	]
+	},
+	{
+    	"id" : 7,
+    	"name": "template 7",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 9.99,
+    	"img" : [
+    		{
+    			"name" : "7.jpg"
+    		}
+    	]
+	},
+	{
+    	"id" : 8,
+    	"name": "template 8",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 18.99,
+    	"img" : [
+    		{
+    			"name" : "8.jpg"
+    		}
+    	]
+	},
+	{
+    	"id" : 9,
+    	"name": "template 9",
+    	"description": "Veuillez joindre votre CV.Vous pouvez également joindre des documents supplémentaires, tels que des recommandations, une lettre d'accompagnement, certificat de formation, etc., pour compléter votre dossier. Tous les formats de document sont acceptés y compris les .doc, .pdf, .xls, etc.",
+    	"price" : 16.99,
+    	"img" : [
+    		{
+    			"name" : "9.jpg"
+    		}
+    	]
+	}
+]
